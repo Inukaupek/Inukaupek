@@ -1,6 +1,6 @@
 ![logo](https://github.com/inuxaupek/myprofile/blob/main/profile_inuka.png)
 <h1 align="center">Hi 👋, I'm Inuka Upek</h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Back-End developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
